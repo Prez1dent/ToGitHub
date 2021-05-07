@@ -10,6 +10,8 @@ import UIKit
 class ViewController: UIViewController {
 let
     let num
+    let num2
+
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
