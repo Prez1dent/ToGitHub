@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 let
     let num
     let num2
-
+var
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
